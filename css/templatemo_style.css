@@ -377,7 +377,7 @@ h2.resp-accordion	{ color: #ffffff; }
 	.percen{
 		font-size: 50px;
 	}
-	/* .markdown-body{
-		display: none;
-	} */
+	span{
+		color: #757575;
+	}
 }
